@@ -21,4 +21,4 @@ Also click on "Megh Dokania" in the heading -
 WELCOME TO MY PAGE
 This page was made by "megh dokania"
 
-.....to view my half developed hosted page. 
+.....to view my ever page XD.
