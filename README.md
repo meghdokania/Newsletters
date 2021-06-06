@@ -1,3 +1,7 @@
+"OPEN AS DESKTOP SITE"
+
+
+
 # csoc-bonus-task
 
 This website shows the most important news of the day, one week on a page
