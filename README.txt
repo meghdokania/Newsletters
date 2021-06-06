@@ -1,1 +1,0 @@
-Responsive page by Megh Dokania
