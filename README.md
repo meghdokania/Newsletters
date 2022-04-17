@@ -1,10 +1,6 @@
-"OPEN AS DESKTOP SITE"
 
 
-
-# csoc-bonus-task
-
-This website shows the most important news of the day, one week on a page
+This website shows the newsletter article of the day, one week on a page
 
 To read full news, click on full story
 
